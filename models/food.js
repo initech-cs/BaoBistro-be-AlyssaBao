@@ -1,15 +1,14 @@
 const mongoose = require("mongoose");
 
 const foodSchema = new mongoose.Schema({
-  title: {
+  category: {
     type: String,
-    unique: true,
-    required: [true, "Title is required!"],
+    required: [true, "Category is required!"],
     trim: true
   },
-  description: {
+  name: {
     type: String,
-    required: [true, "Description is required!"],
+    required: [true, "Name is required!"],
     trim: true
   },
   image: {
@@ -17,6 +16,12 @@ const foodSchema = new mongoose.Schema({
   },
   price: {
     type: Number,
+  },
+  name_vn: {
+      type: String
+  },
+  inCart: {
+    type: Boolean
   }
 });
 

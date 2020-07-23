@@ -1,0 +1,457 @@
+[
+    {
+        "id": 1,
+        "category": "coffee",
+        "name": "Americano",
+        "name_vn": "Cà Phê Mỹ",
+        "price": 20000
+    },
+    {
+        "id": 2,
+        "category": "coffee",
+        "name": "Coconut Coffee",
+        "name_vn": "Cà Phê Dừa",
+        "price": 35000
+    },
+    {
+        "id": 3,
+        "category": "coffee",
+        "name": "Bac Xiu",
+        "name_vn": "Bạc Xỉu",
+        "price": 30000
+    },
+    {
+        "id": 4,
+        "category": "coffee",
+        "name": "Coffee with Ice Cream",
+        "name_vn": "Cà Phê Kem",
+        "price": 45000
+    },
+    {
+        "id": 5,
+        "category": "coffee",
+        "name": "Caracoli Coffee",
+        "name_vn": "Cà Phê Caracoli",
+        "price": 30000
+    },
+    {
+        "id": 6,
+        "category": "coffee",
+        "name": "Saigon Milk Coffee",
+        "name_vn": "Cà Phê Sữa Sài Gòn",
+        "price": 25000
+    },
+    {
+        "id": 7,
+        "category": "coffee",
+        "name": "Saigon Black Coffee",
+        "name_vn": "Cà Phê Đen Sài Gòn",
+        "price": 20000
+    },
+    {
+        "id": 8,
+        "category": "coffee",
+        "name": "Black Coffee",
+        "name_vn": "Cà Phê Đen",
+        "price": 15000
+    },
+    {
+        "id": 9,
+        "category": "coffee",
+        "name": "Milk Coffee",
+        "name_vn": "Cà Phê Sữa",
+        "price": 18000
+    },
+    {
+        "id": 10,
+        "category": "coffee",
+        "name": "Caracoli Mocha",
+        "name_vn": "Caracoli Moka",
+        "price": 30000
+    },
+    {
+        "id": 11,
+        "category": "coffee",
+        "name": "Chocolate Coffee with Ice Cream",
+        "name_vn": "Sô-Cô-La Kem",
+        "price": 45000
+    },
+    {
+        "id": 12,
+        "category": "smoothies",
+        "name": "Banana Peanut Butter Smoothie",
+        "name_vn": "Sinh Tố Chuối Bơ Đậu Phộng",
+        "price": 45000
+    },
+    {
+        "id": 13,
+        "category": "smoothies",
+        "name": "Mango Passionfruit Smoothie",
+        "name_vn": "Sinh Tố Chanh Dây Xoài",
+        "price": 45000
+    },
+    {
+        "id": 14,
+        "category": "smoothies",
+        "name": "Strawberry Banana Smoothie",
+        "name_vn": "Sinh Tố Dâu Chuối",
+        "price": 45000
+    },
+    {
+        "id": 15,
+        "category": "smoothies",
+        "name": "Avocado Smoothie",
+        "name_vn": "Sinh Tố Bơ",
+        "price": 45000
+    },
+    {
+        "id": 16,
+        "category": "smoothies",
+        "name": "Banana Smoothie",
+        "name_vn": "Sinh Tố Chuối",
+        "price": 45000
+    },
+    {
+        "id": 17,
+        "category": "smoothies",
+        "name": "Mango Smoothie",
+        "name_vn": "Sinh Tố Xoài",
+        "price": 45000
+    },
+    {
+        "id": 18,
+        "category": "smoothies",
+        "name": "Pineapple Smoothie",
+        "name_vn": "Sinh Tố Thơm",
+        "price": 45000
+    },
+    {
+        "id": 19,
+        "category": "smoothies",
+        "name": "Strawberry Smoothie",
+        "name_vn": "Sinh Tố Dâu",
+        "price": 45000
+    },
+    {
+        "id": 20,
+        "category": "yogurt",
+        "name": "Plain Yogurt",
+        "name_vn": "Ya-Ua",
+        "price": 20000
+    },
+    {
+        "id": 21,
+        "category": "yogurt",
+        "name": "Coffee Yogurt",
+        "name_vn": "Ya-Ua Cà Phê",
+        "price": 30000
+    },
+    {
+        "id": 22,
+        "category": "yogurt",
+        "name": "Chocolate Yogurt",
+        "name_vn": "Ya-Ua Sô-Cô-La",
+        "price": 30000
+    },
+    {
+        "id": 23,
+        "category": "yogurt",
+        "name": "Passionfruit Yogurt",
+        "name_vn": "Ya-Ua Chanh Dây",
+        "price": 35000
+    },
+    {
+        "id": 24,
+        "category": "yogurt",
+        "name": "Pineapple Yogurt",
+        "name_vn": "Ya-Ua Thơm",
+        "price": 35000
+    },
+    {
+        "id": 25,
+        "category": "yogurt",
+        "name": "Mango Yogurt",
+        "name_vn": "Ya-Ua Xoài",
+        "price": 35000
+    },
+    {
+        "id": 26,
+        "category": "yogurt",
+        "name": "Carrot Yogurt",
+        "name_vn": "Ya-Ua Cà Rốt",
+        "price": 35000
+    },
+    {
+        "id": 27,
+        "category": "yogurt",
+        "name": "Strawberry Yogurt",
+        "name_vn": "Ya-Ua Dâu",
+        "price": 35000
+    },
+    {
+        "id": 28,
+        "category": "yogurt",
+        "name": "Banana Yogurt",
+        "name_vn": "Ya-Ua Chuối",
+        "price": 35000
+    },
+    {
+        "id": 29,
+        "category": "slushies",
+        "name": "Chocolate Slushie",
+        "name_vn": "Kem Tuyết Sô-Cô-La",
+        "price": 30000
+    },
+    {
+        "id": 30,
+        "category": "slushies",
+        "name": "Mocha Slushie",
+        "name_vn": "Kem Tuyết Moka",
+        "price": 30000
+    },
+    {
+        "id": 31,
+        "category": "slushies",
+        "name": "Coconut Slushie",
+        "name_vn": "Kem Tuyết Dừa",
+        "price": 30000
+    },
+    {
+        "id": 32,
+        "category": "slushies",
+        "name": "Lemon Slushie",
+        "name_vn": "Kem Tuyết Chanh",
+        "price": 30000
+    },
+    {
+        "id": 33,
+        "category": "drinks",
+        "name": "Bottled Water",
+        "name_vn": "Nước Suối",
+        "price": 10000
+    },
+    {
+        "id": 34,
+        "category": "drinks",
+        "name": "Coca-Cola",
+        "name_vn": "Coca-Cola",
+        "price": 15000
+    },
+    {
+        "id": 35,
+        "category": "drinks",
+        "name": "Sprite",
+        "name_vn": "Sprite",
+        "price": 15000
+    },
+    {
+        "id": 36,
+        "category": "drinks",
+        "name": "Red Bull",
+        "name_vn": "Bò Húc",
+        "price": 20000
+    },
+    {
+        "id": 37,
+        "category": "drinks",
+        "name": "Aquarius",
+        "name_vn": "Aquarius",
+        "price": 20000
+    },
+    {
+        "id": 38,
+        "category": "drinks",
+        "name": "Hot Milk",
+        "name_vn": "Sữa Nóng",
+        "price": 20000
+    },
+    {
+        "id": 39,
+        "category": "drinks",
+        "name": "Cold Milk",
+        "name_vn": "Sữa Lạnh",
+        "price": 20000
+    },
+    {
+        "id": 40,
+        "category": "drinks",
+        "name": "Hot Chocolate",
+        "name_vn": "Sô-Cô-La Nóng",
+        "price": 30000
+    },
+    {
+        "id": 41,
+        "category": "drinks",
+        "name": "Cold Chocolate",
+        "name_vn": "Sô-Cô-La Lạnh",
+        "price": 30000
+    },
+    {
+        "id": 42,
+        "category": "drinks",
+        "name": "Chocolate Milkshake",
+        "name_vn": "Sữa Lắc Sô-Cô-La",
+        "price": 55000
+    },
+    {
+        "id": 43,
+        "category": "drinks",
+        "name": "Vanilla Milkshake",
+        "name_vn": "Sữa Lắc Vani",
+        "price": 55000
+    },
+    {
+        "id": 44,
+        "category": "tea",
+        "name": "Peach Tea",
+        "name_vn": "Trà Đào",
+        "price": 45000
+    },
+    {
+        "id": 45,
+        "category": "tea",
+        "name": "Lipton Tea",
+        "name_vn": "Trà Lipton",
+        "price": 20000
+    },
+    {
+        "id": 46,
+        "category": "tea",
+        "name": "Ginger Tea",
+        "name_vn": "Trà Gừng",
+        "price": 20000
+    },
+    {
+        "id": 47,
+        "category": "juices",
+        "name": "Orange Juice",
+        "name_vn": "Nước Cam",
+        "price": 45000
+    },
+    {
+        "id": 48,
+        "category": "juices",
+        "name": "Lemonade",
+        "name_vn": "Nước Chanh",
+        "price": 40000
+    },
+    {
+        "id": 49,
+        "category": "juices",
+        "name": "Passionfruit Juice",
+        "name_vn": "Nước Chanh Dây",
+        "price": 45000
+    },
+    {
+        "id": 50,
+        "category": "juices",
+        "name": "Carrot Juice",
+        "name_vn": "Nước Cà Rốt",
+        "price": 40000
+    },
+    {
+        "id": 51,
+        "category": "juices",
+        "name": "Tomato Juice",
+        "name_vn": "Nước Cà Chua",
+        "price": 40000
+    },
+    {
+        "id": 52,
+        "category": "alcohol",
+        "name": "Mojito",
+        "name_vn": "Mojito",
+        "price": 60000
+    },
+    {
+        "id": 53,
+        "category": "alcohol",
+        "name": "Lucky 7",
+        "name_vn": "Lucky 7",
+        "price": 55000
+    },
+    {
+        "id": 54,
+        "category": "alcohol",
+        "name": "Rum and Coke",
+        "name_vn": "Rượu Rum và Coca",
+        "price": 55000
+    },
+    {
+        "id": 55,
+        "category": "alcohol",
+        "name": "Heineken Beer",
+        "name_vn": "Bia Heineken",
+        "price": 25000
+    },
+    {
+        "id": 56,
+        "category": "alcohol",
+        "name": "Tiger Beer",
+        "name_vn": "Bia Tiger",
+        "price": 20000
+    },
+    {
+        "id": 57,
+        "category": "alcohol",
+        "name": "Larue Beer",
+        "name_vn": "Bia Larue",
+        "price": 15000
+    },
+    {
+        "id": 58,
+        "category": "ice cream",
+        "name": "Chocolate Ice Cream",
+        "name_vn": "Kem Sô-Cô-La",
+        "price": 30000
+    },
+    {
+        "id": 59,
+        "category": "ice cream",
+        "name": "Vanilla Ice Cream",
+        "name_vn": "Kem Vani",
+        "price": 30000
+    },
+    {
+        "id": 60,
+        "category": "food",
+        "name": "Grilled Pork Noodle",
+        "name_vn": "Bún Chả Hà Nội",
+        "price": 55000
+    },
+    {
+        "id": 61,
+        "category": "food",
+        "name": "Eggrolls",
+        "name_vn":"Nem Rán",
+        "price": 30000
+    },
+    {
+        "id": 62,
+        "category": "food",
+        "name": "Cheese Sticks",
+        "name_vn": "Phô Mai Que",
+        "price": 45000
+    },
+    {
+        "id": 63,
+        "category": "food",
+        "name": "Fried Fish Balls",
+        "name_vn": "Chả Cá Viên Chiên",
+        "price": 40000
+    },
+    {
+        "id": 64,
+        "category": "food",
+        "name": "Sausages",
+        "name_vn":"Xúc Xích",
+        "price": 40000
+    },
+    {
+        "id": 65,
+        "category": "food",
+        "name": "French Fries",
+        "name_vn": "Khoai Tây Chiên",
+        "price": 35000
+    }
+]
